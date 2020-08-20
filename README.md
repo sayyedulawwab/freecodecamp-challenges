@@ -6,6 +6,6 @@ Here I will be uploading my solutions to the challenges of freecodecamp curricul
 
 1. Responsive Web Design Certification Solutions
 
-   - [Basic HTML and HTML5 Solutions](1.Responsive-Web-Design-Certification\1.Basic-HTML-and-HTML5)
+   - [Basic HTML and HTML5 Solutions](1.Responsive-Web-Design-Certification/1.Basic-HTML-and-HTML5)
 
-   - [Basic CSS Solutions](1.Responsive-Web-Design-Certification\2.Basic-CSS)
+   - [Basic CSS Solutions](1.Responsive-Web-Design-Certification/2.Basic-CSS)
