@@ -11,3 +11,5 @@ Here I will be uploading my solutions to the challenges of freecodecamp curricul
    - [Basic CSS Solutions](1.Responsive-Web-Design-Certification/2.Basic-CSS)
 
    - [Applied Visual Design Solutions](1.Responsive-Web-Design-Certification/3.Applied-Visual-Design)
+
+   - [Applied Accessibilty](1.Responsive-Web-Design-Certification/4.Applied-Accessibility)
