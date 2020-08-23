@@ -12,6 +12,8 @@ Here I will be uploading my solutions to the challenges of freecodecamp curricul
 
    - [Applied Visual Design Solutions](1.Responsive-Web-Design-Certification/3.Applied-Visual-Design)
 
-   - [Applied Accessibilty](1.Responsive-Web-Design-Certification/4.Applied-Accessibility)
+   - [Applied Accessibilty Solutions](1.Responsive-Web-Design-Certification/4.Applied-Accessibility)
 
-   - [Responsive Web Design Principles](1.Responsive-Web-Design-Certification/5.Responsive-Web-Design-Principles)
+   - [Responsive Web Design Principles Solutions](1.Responsive-Web-Design-Certification/5.Responsive-Web-Design-Principles)
+
+   - [CSS Flexbox Solutions](1.Responsive-Web-Design-Certification/6.CSS-Flexbox)
