@@ -17,3 +17,5 @@ Here I will be uploading my solutions to the challenges of freecodecamp curricul
    - [Responsive Web Design Principles Solutions](1.Responsive-Web-Design-Certification/5.Responsive-Web-Design-Principles)
 
    - [CSS Flexbox Solutions](1.Responsive-Web-Design-Certification/6.CSS-Flexbox)
+
+   - [CSS Grid Solutions](1.Responsive-Web-Design-Certification/7.CSS-Grid)
