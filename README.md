@@ -24,4 +24,6 @@ Here I will be uploading my solutions to the challenges of freecodecamp curricul
 
 2. JavaScript Algorithms and Data Structures Certification Solutions
 
-   - [Basic JavaScript](2.JavaScript-Algorithms-and-Data-Structures-Certification/1.Basic-JavaScript)
+   - [Basic JavaScript Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/1.Basic-JavaScript)
+
+   - [ES6 Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/2.ES6)
