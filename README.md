@@ -27,3 +27,5 @@ Here I will be uploading my solutions to the challenges of freecodecamp curricul
    - [Basic JavaScript Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/1.Basic-JavaScript)
 
    - [ES6 Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/2.ES6)
+
+   - [Regular Expressions Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/3.Regular-Expressions)
