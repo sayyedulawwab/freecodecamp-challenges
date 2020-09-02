@@ -31,3 +31,5 @@ Here I will be uploading my solutions to the challenges of freecodecamp curricul
    - [Regular Expressions Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/3.Regular-Expressions)
 
    - [Debugging Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/4.Debugging)
+
+   - [Basic Data Structures Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/5.Basic-Data-Structures)
