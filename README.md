@@ -33,3 +33,5 @@ Here I will be uploading my solutions to the challenges of freecodecamp curricul
    - [Debugging Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/4.Debugging)
 
    - [Basic Data Structures Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/5.Basic-Data-Structures)
+
+   - [Basic Algorithm Scripting Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/6.Basic-Algorithm-Scripting)
