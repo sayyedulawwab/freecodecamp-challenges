@@ -37,3 +37,5 @@ Here I will be uploading my solutions to the challenges of freecodecamp curricul
    - [Basic Algorithm Scripting Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/6.Basic-Algorithm-Scripting)
 
    - [Object Oriented Programming Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/7.Object-Oriented-Programming)
+
+   - [Functional Programming Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/8.Functional-Programming)
