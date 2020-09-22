@@ -41,3 +41,5 @@ Here I will be uploading my solutions to the challenges of freecodecamp curricul
    - [Functional Programming Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/8.Functional-Programming)
 
    - [Intermediate Algorithm Scripting Solutions](2.JavaScript-Algorithms-and-Data-Structures-Certification/9.Intermediate-Algorithm-Scripting)
+
+   - [JavaScript Algorithms and Data Structures Projects](https://github.com/sayyedulbappy/freecodecamp-projects#javascript-algorithms-and-data-structures-projects)
